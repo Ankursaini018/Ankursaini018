@@ -1,49 +1,18 @@
-# 👋 Hey there! I'm ANKUR(Anky)
+# 💫 About Me:
+I am an AI/ML and Data Science enthusiast with hands-on experience in Python development and building practical AI solutions. I enjoy applying data, machine learning, and automation to solve real-world problems.<br><br>As a continuous learner, I actively explore emerging technologies, experiment with AI tools, and build projects that demonstrate practical applications of AI and data-driven solutions.<br><br>Always open to learning opportunities, collaborations, and innovative projects.<br><br>
 
-Welcome to my little corner of the digital universe 🌍
 
-##  About Me  😎
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_officialankur05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankur Saini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialankur0707@gmail.com) 
 
-𝐈'𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 🎯 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐀𝐈 🤖, 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠.
-
----
-
-## 🧠 Skills & Interests
-
-* 🔤 **Languages**: Python, SQL 
-* 📊 **Tools & Libraries**: NumPy, Pandas, Matplotlib (learning more every day)
-* 🧠 **AI/ML**: Currently exploring Scikit-learn, Data Preprocessing, and simple ML models
-* 🎮 **Hobbies**: Basketball , gym 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankursaini018&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ankursaini018&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursaini018&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ankursaini018&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Goals for 2025
-
-* ✅ Build real-world AI projects
-* 🔜 Contribute to open-source
-* 🔧 Improve DSA + problem-solving
-* 📚 Master SQL & DBMS
-* 🚀 Publish a project or portfolio website
-
----
-
-## 🧰 Current Tools
-
-| Tool                | Purpose                          |
-| ------------------- | -------------------------------- |
-| 🐍 Python           | Scripting & data analysis        |
-|                     |                                  |
-| 🖥️ VS Code         | Code editor of choice            |
-| 📊 Jupyter Notebook | For Data Science learning        |
-| 🧠 ChatGPT          | Study buddy & brainstorming tool |
-
----
-
-## 📬 Connect with Me
-
-* 📧 Email: [sainianku018@gmail.com](mailto:sainianku018@gmail.com) 
-* 💼 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/) ankur-saini-022923292
-
-\>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<
-
-Thanks for stopping by! 💙
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
